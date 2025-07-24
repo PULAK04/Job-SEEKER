@@ -78,7 +78,7 @@ useEffect(() => {
             <div className='flex items-center justify-between mx-auto max-w-7xl h-16 px-4'>
                 <motion.div whileHover={{ scale: 1.05 }}>
                     <h1 className='text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-orange-600'>
-                        Job<span className='bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-orange-500'>SEEKER</span>
+                        Job<span className='bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-orange-500'>search</span>
                     </h1>
                 </motion.div>
 
